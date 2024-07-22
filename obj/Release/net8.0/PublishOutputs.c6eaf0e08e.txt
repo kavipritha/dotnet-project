@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive\Desktop\Kavi\Azure Training\dotnet\bin\Release\net8.0\publish\dotnet.exe
+C:\Users\Admin\OneDrive\Desktop\Kavi\Azure Training\dotnet\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Admin\OneDrive\Desktop\Kavi\Azure Training\dotnet\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Admin\OneDrive\Desktop\Kavi\Azure Training\dotnet\bin\Release\net8.0\publish\dotnet.dll
+C:\Users\Admin\OneDrive\Desktop\Kavi\Azure Training\dotnet\bin\Release\net8.0\publish\dotnet.deps.json
+C:\Users\Admin\OneDrive\Desktop\Kavi\Azure Training\dotnet\bin\Release\net8.0\publish\dotnet.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Kavi\Azure Training\dotnet\bin\Release\net8.0\publish\dotnet.pdb
